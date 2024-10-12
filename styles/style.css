@@ -1,0 +1,65 @@
+body{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+header{
+    width: 1400px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 60px;
+    line-height: 100%;
+    letter-spacing: -0.03em;
+    padding: 137px 316px 30px 128px;
+    width: 956px;
+    height: 120px;
+    color: #121212;
+}
+.text-image{
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    padding: 379px 680px 40px 40px;
+    width: 430px;
+    height: 81px;
+    color: #fff;
+}
+.design{
+    background-image: url('../resources/design.png');
+    width: 1150px;
+    height: 650px;
+    background-repeat: no-repeat;
+    margin-left: 128px;
+    margin-right: 122px;
+}
+.about-studio{
+    width: 1400px;
+    margin: 0 auto;
+}
+.about{
+    font-size: 18px;
+    letter-spacing: -0.03em;
+    margin-left: 125px;
+    text-transform: uppercase;
+    color: #121212;
+}
+.text-about{
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61px;
+    letter-spacing: -0.03em;
+    margin: 30px 224px 30px 128px;
+    width: 1048px;
+    height: 366px;
+    color: #121212;
+}
+.button-services{
+    margin-top: 30px;
+    margin-left: 125px;
+    display: inline-block;
+    padding: 20px 40px;
+    border-radius: 5px;
+    background-color: #AD1818;
+    color: #FFFFFF;
+}
